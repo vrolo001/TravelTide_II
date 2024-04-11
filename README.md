@@ -1,5 +1,5 @@
 # TravelTide_II
-SQL-challenge where I query data from Travel Tide,  online booking platform for travel, specializing in discount airplane tickets and hotel accommodations. The four questions are:
+SQL-challenge where I query data from Travel Tide, an online booking platform for travel, specializing in discount airplane tickets and hotel accommodations. The four questions are:
 
 1) Return users who have booked and completed at least 10 flights, ordered by user_id.
 2) Write a solution to report the trip_id of sessions where:
